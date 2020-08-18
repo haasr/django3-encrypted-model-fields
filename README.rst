@@ -4,6 +4,8 @@ Django Encrypted Model Fields
 .. image:: https://travis-ci.org/lanshark/django-encrypted-model-fields.png
    :target: https://travis-ci.org/lanshark/django-encrypted-model-fields
 
+Forked from https://gitlab.com/lansharkconsulting/django/django-encrypted-model-fields
+
 About
 -----
 
